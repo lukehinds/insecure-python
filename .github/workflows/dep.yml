@@ -3,7 +3,7 @@ name: TrustyPkg Dependency Check
 on:
   pull_request:
     branches:
-      - main
+      - master
   workflow_dispatch:
 
 jobs:
